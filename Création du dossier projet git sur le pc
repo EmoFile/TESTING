@@ -1,0 +1,9 @@
+Création du dossier projet git sur le pc
+
+A) Nouveau projet non existant sous GitHub
+	1 - git init 
+	2 - git remote add origin https://github.com/EmoFile/TESTING.git 
+
+
+B) Projet existant sous GitHub
+	1 - git clone [url]
