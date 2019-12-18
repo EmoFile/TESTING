@@ -1,0 +1,7 @@
+Travail avec les branch
+
+A) Récupération de toutes les branches créées dans GitHub
+	1 - git fetch origin
+
+B) Créer une branch et switch dessus
+	1 - git checkout -b [name_of_your_new_branch]

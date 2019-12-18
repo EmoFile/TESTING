@@ -1,0 +1,10 @@
+Envoyer sur GitHub ses modification
+
+1 - git add . 
+	CA PREND TOUT LES FICHIERS
+2 - git commit 
+	enpackage le add
+3 - git pull 
+	pour récupérer les modifs des autres 
+4 - RÉSOLUTION DES CONFLITS
+5 - git push origin master

@@ -1,0 +1,8 @@
+Merge des branches
+
+1 - Se placer sur la branche qui recevra le merge
+2 - git merge [branche à marge]
+3 - RÉSOLUTION DES CONFLITS
+4 - git add.
+5 - git commit -m "message"
+6 - git push origin [branche actuel]
